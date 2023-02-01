@@ -422,7 +422,7 @@ body {
 }
 @media (min-width: 70em) {
   .hero::before {
-    transform: none;
+    background-image: url(./assets/desktop/image-hero.jpg);
   }
   .hero::after {
     background-image: none;
